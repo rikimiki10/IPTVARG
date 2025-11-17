@@ -1,13 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://seeklogo.com/images/T/telefe-logo-8F5E44EC16-seeklogo.com.png" group-title="Nacionales",Telefe
-http://
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://seeklogo.com/images/C/canal-13-argentina-logo-0F82FD3BD3-seeklogo.com.png" group-title="Nacionales",eltrece
-http://
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="elnueve" tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
-http://
+#EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
+http://fortv.cc:8080/90820916/64752029/164869
+
+#EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Canal_Once_Parana_logo.png",El Once Paraná
+https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://seeklogo.com/images/A/america-tv-argentina-logo-7F135D03AF-seeklogo.com.png" group-title="Nacionales",américa
 http://
@@ -140,3 +146,4 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
 http://
+
