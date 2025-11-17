@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://seeklogo.com/images/T/telefe-logo-8F5E44EC16-seeklogo.com.png" group-title="Nacionales",Telefe
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://seeklogo.com/images/C/canal-13-argentina-logo-0F82FD3BD3-seeklogo.com.png" group-title="Nacionales",eltrece
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="elnueve" tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://seeklogo.com/images/A/america-tv-argentina-logo-7F135D03AF-seeklogo.com.png" group-title="Nacionales",américa
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="https://seeklogo.com/images/T/tv-publica-argentina-logo-7A3A2C5D92-seeklogo.com.png" group-title="Nacionales",Televisión Pública
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://seeklogo.com/images/N/net-tv-argentina-logo-7F4B393CA7-seeklogo.com.png" group-title="Nacionales",NET TV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://seeklogo.com/images/B/bravo-logo-0E4F8ECF8F-seeklogo.com.png" group-title="Nacionales",Bravo TV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://seeklogo.com/images/T/tn-todo-noticias-logo-A4D1F9B229-seeklogo.com.png" group-title="Noticias",TN
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://seeklogo.com/images/C/c5n-logo-5F43E8D4C4-seeklogo.com.png" group-title="Noticias",C5N
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://seeklogo.com/images/C/cronica-tv-logo-5C2A1A3C59-seeklogo.com.png" group-title="Noticias",Crónica
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://seeklogo.com/images/A/a24-argentina-logo-4D8DCD8EF3-seeklogo.com.png" group-title="Noticias",A24
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://seeklogo.com/images/C/canal-26-argentina-logo-1B1EF1F8CF-seeklogo.com.png" group-title="Noticias",Canal 26
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://seeklogo.com/images/L/la-nacion-mas-logo-5E3C77C593-seeklogo.com.png" group-title="Noticias",LN+
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="IP" tvg-logo="https://seeklogo.com/images/I/ip-noticias-logo-D8BFC5D03D-seeklogo.com.png" group-title="Noticias",IP
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="EXTRA!" tvg-logo="https://seeklogo.com/images/E/extra-tv-logo-4B9327D4B4-seeklogo.com.png" group-title="Noticias",EXTRA!
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="deportv" tvg-logo="https://seeklogo.com/images/D/deportv-logo-65A3E3A6C2-seeklogo.com.png" group-title="Deportes",deportv
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://seeklogo.com/images/P/paka-paka-logo-4A0E94D0B6-seeklogo.com.png" group-title="Infantiles",Paka Paka
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine.ar" tvg-logo="https://seeklogo.com/images/C/cine-ar-logo-63B7F3A285-seeklogo.com.png" group-title="Cine",Cine.ar
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Construir" tvg-logo="https://seeklogo.com/images/C/construir-tv-logo-4C9E2C6463-seeklogo.com.png" group-title="Culturales",Construir
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Viajar" tvg-logo="https://seeklogo.com/images/V/viajar-tv-logo-6C0F0AB4ED-seeklogo.com.png" group-title="Culturales",Viajar
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://seeklogo.com/images/E/encuentro-argentina-logo-2B153D7A1C-seeklogo.com.png" group-title="Culturales",Encuentro
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://seeklogo.com/images/T/tbs-logo-4B14DF2D01-seeklogo.com.png" group-title="Series",TBS
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="(Canal sin nombre visible)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/No_image_available.png" group-title="Misceláneos",(Canal sin nombre visible)
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="https://seeklogo.com/images/C/canal-de-la-musica-argentina-logo-1F68E0C8E5-seeklogo.com.png" group-title="Música",CM
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://seeklogo.com/images/M/music-top-logo-2D8E4C2FA7-seeklogo.com.png" group-title="Música",Music Top
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Tierra Mia TV" tvg-logo="https://tvmia.ar/logo.png" group-title="Folklore",Tierra Mia TV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="El Garage TV" tvg-logo="https://seeklogo.com/images/E/el-garage-tv-logo-4A87D98F29-seeklogo.com.png" group-title="Autos",El Garage TV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://seeklogo.com/images/C/ciudad-magazine-logo-8FDF1B04DA-seeklogo.com.png" group-title="Entretenimiento",Ciudad Magazine
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://seeklogo.com/images/U/unife-logo-3BEF27DA52-seeklogo.com.png" group-title="Religión",UNIFE
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://seeklogo.com/images/K/kzo-logo-D9C0C9D8AD-seeklogo.com.png" group-title="Entretenimiento",KZO Entertainment
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="AM 1070 El Destape" tvg-logo="https://seeklogo.com/images/E/el-destape-radio-logo-8F9458870B-seeklogo.com.png" group-title="Radio",AM 1070 El Destape
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://seeklogo.com/images/D/dtv-logo-F7F92C46F4-seeklogo.com.png" group-title="Misceláneos",DTV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://seeklogo.com/images/C/canal-e-argentina-logo-3B3A3E1C0F-seeklogo.com.png" group-title="Misceláneos",CANAL E
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://seeklogo.com/images/C/canal-rural-logo-907AA50D7A-seeklogo.com.png" group-title="Agro",CANAL RURAL
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="chacra TV" tvg-logo="https://seeklogo.com/images/C/chacra-tv-logo-72F06C6BFA-seeklogo.com.png" group-title="Agro",chacra TV
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://seeklogo.com/images/A/argentinisima-satelital-logo-25A7B6E90C-seeklogo.com.png" group-title="Regionales",ARGENTINISIMA satelital
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="CN23" tvg-logo="https://seeklogo.com/images/C/cn23-logo-3E4040E3A0-seeklogo.com.png" group-title="Noticias",CN23
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="aunar" tvg-logo="https://seeklogo.com/images/A/aunar-tv-logo-92E8A9B34E-seeklogo.com.png" group-title="Regionales",aunar
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://seeklogo.com/images/T/telesur-logo-1F1DF40E0D-seeklogo.com.png" group-title="Internacionales",teleSUR
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="D News" tvg-logo="https://seeklogo.com/images/D/deutsche-welle-d-news-logo-1A8C436AA9-seeklogo.com.png" group-title="Internacionales",D News
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://seeklogo.com/images/R/rt-logo-22DC2C4EAB-seeklogo.com.png" group-title="Internacionales",RT
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://seeklogo.com/images/F/france-24-logo-5DE5F9CBA1-seeklogo.com.png" group-title="Internacionales",France 24 Español
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://seeklogo.com/images/D/dw-logo-0F121E7DAE-seeklogo.com.png" group-title="Internacionales",DW
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://seeklogo.com/images/E/euronews-logo-0D6FD80EC9-seeklogo.com.png" group-title="Internacionales",euronews
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://seeklogo.com/images/C/canal-24-horas-logo-8D20D8B7C0-seeklogo.com.png" group-title="Internacionales",24h
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="+ FORO" tvg-logo="https://seeklogo.com/images/F/foro-tv-logo-2E80FC9192-seeklogo.com.png" group-title="Internacionales",+ FORO
+http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
+http://
