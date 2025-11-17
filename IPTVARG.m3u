@@ -1,66 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true" group-title="Nacionales",Telefe
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://bestleague.world/img/telefe.png"Nacionales",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://seeklogo.com/images/C/canal-13-argentina-logo-0F82FD3BD3-seeklogo.com.png" group-title="Nacionales",eltrece
+#EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://bestleague.world/img/eltrece.webp" group-title="Nacionales",eltrece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
+#EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://bestleague.world/img/nueve.webp" group-title="Nacionales",elnueve
 http://fortv.cc:8080/90820916/64752029/164869
 
-#EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
+#EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Canal-nueve-litoral-logo-2017.svg/1024px-Canal-nueve-litoral-logo-2017.svg.png" group-title="Nacionales",elnueveLitoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",El Once Paraná
 https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://seeklogo.com/images/A/america-tv-argentina-logo-7F135D03AF-seeklogo.com.png" group-title="Nacionales",américa
+#EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://bestleague.world/img/america.webp" group-title="Nacionales",américa
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="https://seeklogo.com/images/T/tv-publica-argentina-logo-7A3A2C5D92-seeklogo.com.png" group-title="Nacionales",Televisión Pública
+#EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="https://bestleague.world/img/tvpublica.webp" group-title="Nacionales",Televisión Pública
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://seeklogo.com/images/N/net-tv-argentina-logo-7F4B393CA7-seeklogo.com.png" group-title="Nacionales",NET TV
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://bestleague.world/img/nettv.webp" group-title="Nacionales",NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=277314942
 
-#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://seeklogo.com/images/B/bravo-logo-0E4F8ECF8F-seeklogo.com.png" group-title="Nacionales",Bravo TV
+#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://bestleague.world/img/bravotv.png" group-title="Nacionales",Bravo TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://seeklogo.com/images/T/tn-todo-noticias-logo-A4D1F9B229-seeklogo.com.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://bestleague.world/img/tn.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://seeklogo.com/images/C/c5n-logo-5F43E8D4C4-seeklogo.com.png" group-title="Noticias",C5N
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://bestleague.world/img/c5n.webp" group-title="Noticias",C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427563/ei/i3AbaaORO4ec4dUPh5To8Qw/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5R1GrRPLnbC7uCokKMQ9uebVqkMICwsdsGDblxoH6fyR-W7WjVoqRuaaDONQtWi8ZvN6jye0NxK/spc/6b0G_F4xKaHnLrFntkiVmUVszf6imGSyqoH5W6-H80bgVdfSdUMVbuD7h_UxlCvRH86XPRhKSR0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIqlSuBFvWTE3c29py5wGem-huMtJ8aJSwpKUuch6dT4AiEA8cXoltXXQZ-8zBH9JfQ6am5808DpgPGtTjDQXIC9r7w%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://seeklogo.com/images/C/cronica-tv-logo-5C2A1A3C59-seeklogo.com.png" group-title="Noticias",Crónica
+#EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://bestleague.world/img/cronica.png" group-title="Noticias",Crónica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427686/ei/BnEbabSqNNCiobIPgYDYuA4/ip/190.7.19.202/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RQIa6Fpz38xPO1yCp1KxFk6DtkD4Ck4DFya4I2_CkXqvX5Kww5EWI3E8zLmwyyMnLeur15_7f1/spc/6b0G_BBfzITL5pPdTj2Ww2r7WyFHvCuTQ5aOo502bZTu3e8twR_mKT4bXrL7ZKelGoo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMYuiLLEwH94zMkpYt0HA1HKbhpWqRlhKoi_UKC8RmaiAiEA99m6Be3SMPEda6DWwuU_mLVRgM34rivmXtGlE2p82aQ%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://seeklogo.com/images/A/a24-argentina-logo-4D8DCD8EF3-seeklogo.com.png" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://bestleague.world/img/a24.webp" group-title="Noticias",A24
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427819/ei/i3EbabLjB7CbobIPmrqI6A4/ip/190.7.19.202/id/ArKbAx1K-2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QTFe5POuqSN1aFsF_UGSYywHGMRjQw419h1PRJAVIWMjZ_-pesehC2H_PfSOZlohC-YJWX-grT/spc/6b0G_CVFFvjf2o75Damqx5tRD7PIEGgn7PZv3yuUCC4JgeCocSQBGOMuFhBC_5yaHUo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMEbZ_rlQADhRZB-vSoREfugLX39q2-DfjBU4e1Uob5UCIQDQ59ch8CQIVwUl7RZGFKjzIUKv6hn2284v3xqfyHf0Iw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://seeklogo.com/images/C/canal-26-argentina-logo-1B1EF1F8CF-seeklogo.com.png" group-title="Noticias",Canal 26
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://bestleague.world/img/canal26.webp" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://seeklogo.com/images/L/la-nacion-mas-logo-5E3C77C593-seeklogo.com.png" group-title="Noticias",LN+
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://bestleague.world/img/ln.webp" group-title="Noticias",LN+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763428122/ei/unIbabL8Fsag4dUP-JOf-Aw/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S8bl4LTaXP4v5IWg8A73_0LwGc7Ua3AtPaUuD7-183rYXvFmEL4R5w1t03FW-etq5ZHmxuNFpC/spc/6b0G_C9hDFRxfT6E1QCspn1yvdcTpmv-eWeoS0MlcP_HboZCBo9i3YTtkzig6mnKHAw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4FDqgiCemTFpnP6sCL7vThMBp_6CKVBvHBrUO740tIAiADbryA3zrkpoKtobstVflX8i9o4KgO7AGX4pfwA8WSqQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="deportv" tvg-logo="https://seeklogo.com/images/D/deportv-logo-65A3E3A6C2-seeklogo.com.png" group-title="Deportes",deportv
+#EXTINF:-1 tvg-id="" tvg-name="deportv" tvg-logo="https://bestleague.world/img/deportv.webp" group-title="Deportes",deportv
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Garage_TV_Logo.png",El Garage TV
+#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://bestleague.world/img/garagetv.webp",El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://seeklogo.com/images/P/paka-paka-logo-4A0E94D0B6-seeklogo.com.png" group-title="Infantiles",Paka Paka
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://bestleague.world/img/pakapaka.png" group-title="Infantiles",Paka Paka
 https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine.ar" tvg-logo="https://seeklogo.com/images/C/cine-ar-logo-63B7F3A285-seeklogo.com.png" group-title="Cine",Cine.ar
+#EXTINF:-1 tvg-id="" tvg-name="Cine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Cine",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Construir" tvg-logo="https://seeklogo.com/images/C/construir-tv-logo-4C9E2C6463-seeklogo.com.png" group-title="Culturales",Construir
+#EXTINF:-1 tvg-id="" tvg-name="Construir" tvg-logo="https://www.construirtv.com/wp-content/uploads/2017/09/Logo-CTV_nuevo.jpg" group-title="Culturales",Construir
 https://router.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Culturales",Encuentro
@@ -120,23 +120,24 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Internacionales",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://seeklogo.com/images/F/france-24-logo-5DE5F9CBA1-seeklogo.com.png" group-title="Internacionales",France 24 Español
-http://
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",France 24 Español
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763434977/ei/gY0badTcDO2J1sQPzfPgsQ0/ip/190.7.19.202/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QUQX9j9Uvv0k7exkdKPSbvWZG380nTvKXFjJOueZUOdZIH_df11ygfpW4G71XikorL85Im8XUE/spc/6b0G_EizQEIeGzd0A4DfIkJSGdQ2Rkj-VbntXrq6_WlIBjGOXW3lY2C6jSvIEeOyY_RKefjSXoc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJIbeadkasYJn8wIyFTUu1sQ_wTa1hq3oLUXa7IgGlUYAiB_6oMcj8Y2cI87-C6smQ5Mx5t9a-BKB7AgQdOJ2bm_Ew%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://seeklogo.com/images/D/dw-logo-0F121E7DAE-seeklogo.com.png" group-title="Internacionales",DW
-http://
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://seeklogo.com/images/E/euronews-logo-0D6FD80EC9-seeklogo.com.png" group-title="Internacionales",euronews
-http://
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacionales",euronews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435289/ei/uY4badDdDaTH4dUPtLOOuAc/ip/190.7.19.202/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5R7c2_kLlJ-nb2mz9Lqkosdz4XJVJwzfK9p_oAXY_iN92T94qtkXGzGLsmz7VGCXvi6OMyLDLA-/spc/6b0G_OtdnPTsg5tI-X3-Nlujk8eYYRzfNoLXedOcy3Co2ERscq7VCtbQ9wIeIdoocms/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJVjBbLEq1YYlfjHhyYfDI6yclvfsYiQObktRj9ObsN2AiEA2SRP9PcccoXAlT6CNnHtd5QBEKCEkVjolMKjgUfSHXA%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://seeklogo.com/images/C/canal-24-horas-logo-8D20D8B7C0-seeklogo.com.png" group-title="Internacionales",24h
-http://
+#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUY-SCjSleJXUrdMOV9mcwPDrkWt_RMZIEQ&s" group-title="Internacionales",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="+ FORO" tvg-logo="https://seeklogo.com/images/F/foro-tv-logo-2E80FC9192-seeklogo.com.png" group-title="Internacionales",+ FORO
-http://
+#EXTINF:-1 tvg-id="" tvg-name="+ FORO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/2560px-N%2B_Foro_2024.svg.png" group-title="Internacionales",+ FORO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435503/ei/j48baaXUE5aW4dUPt5GxuQ0/ip/190.7.19.202/id/p2AzyIEuFak.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/ss/1/ssa/1/bui/AdEuB5RXFtflkpdAxBkBtELHtP7l2gsrNSlIJCptVMrKRCIveHWDtgcJedNrX-XZ47AGEHPrfj7TJTTs/spc/6b0G_KmbntB1aP2q3NBpgd3r290g25SNvD6FOPh4cDW-JC6nDkd9z1SVA64bX5xrmoQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaCnropDvZtECAva7P1bQ2U3BIkJqddOlKJKcosHe0O4CIQDxkyFmgERxryl4WK3cU_Ai111RuhfZc_jVv7KIHWsoxw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
+https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
 
 
 
