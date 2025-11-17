@@ -90,41 +90,35 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Religión",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://seeklogo.com/images/K/kzo-logo-D9C0C9D8AD-seeklogo.com.png" group-title="Entretenimiento",KZO Entertainment
-http://
+#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://bestleague.world/img/kzowhite.png" group-title="Entretenimiento",KZO Entertainment
+https://youtu.be/gJSz4U5WrVc
 
-#EXTINF:-1 tvg-id="" tvg-name="AM 1070 El Destape" tvg-logo="https://seeklogo.com/images/E/el-destape-radio-logo-8F9458870B-seeklogo.com.png" group-title="Radio",AM 1070 El Destape
-http://
+#EXTINF:-1 tvg-id="" tvg-name="AM 1070 El Destape" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/el-destape-radio/fb_cover.jpg" group-title="Radio",AM 1070 El Destape
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433346/ei/IocbabLOGfKT4dUP1LmRkAQ/ip/190.7.19.202/id/YPTraHIcd0c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SMtY8Zie30UBUxLYD0gwJJ59KCjr4mEkvLxi59IGc_bJ6AZTzZS7UJQskRJpBZxhLCI_WOBrm2/spc/6b0G_N_CfAEDCcdLIAcJu-T9_N2_7kr8HtAJ2fyHiB3aTI7UFiMXgO4ALKrF-XJru0FQZS_zpCg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMwRyosb8dVbWvzXXA9gGJsRgjuEBV_AYkg21dA6sTrQAiAw5Mmr1Xer75b_81X6Q4auZ7PlPTIxfQ42gqY0s6E07A%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://seeklogo.com/images/D/dtv-logo-F7F92C46F4-seeklogo.com.png" group-title="Misceláneos",DTV
-http://
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://bestleague.world/img/dtv.webp" group-title="Misceláneos",DTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433479/ei/p4cbaZChMZvq1sQP6faxgAg/ip/190.7.19.202/id/LIeND9IgRIk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RMHgl24r_KixpJ7pIll09bqAz27Np5GpnFKfqBl32bxd3mBpm03u47HNOfk1Ru0bIqolMBykuu/spc/6b0G_OOhntU1_l7UQ9rU2FlwHinsouD16KA2v0E-zKOS04k0JyNqS-5tDj1GBMt7jgY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIvYzYHidsSxSGiR-H9sAU6adNmX7z_Op8PSq9_bBpMwCIDSl1z-TdF2RPrJmKxclEiOpqUlZqdjY420t8hu5uumO/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://seeklogo.com/images/C/canal-e-argentina-logo-3B3A3E1C0F-seeklogo.com.png" group-title="Misceláneos",CANAL E
-http://
+#EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Misceláneos",CANAL E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream0/chunks.m3u8?nimblesessionid=277583541
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://seeklogo.com/images/C/canal-rural-logo-907AA50D7A-seeklogo.com.png" group-title="Agro",CANAL RURAL
-http://
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://bestleague.world/img/rural.webp" group-title="Agro",CANAL RURAL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433821/ei/_YgbaZrgEJiYobIPooPCiAo/ip/190.7.19.202/id/EED_GN6fuMQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/maudio/1/bui/AdEuB5Ry_ZTfaFNJXNrLS101EDYMQk-NJtQEnRdLxu51wPtCm8YIYJQ5VMCWAaVTKtYjb-eEq3484qD0/spc/6b0G_NqBnG9t51m3fz0iXFilLAYc1HFsmxKMFdOZYliyKE2VzTfZon_6j5puf_uO_V8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHmmdho3RzM3lcusOsa7MjBYE2c4Cusp4MMdGGCCM3rkCICiXXBXiqBbOsTfFjlpB3OpmyZQKgFPSzYZiY66cVWUb/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="chacra TV" tvg-logo="https://seeklogo.com/images/C/chacra-tv-logo-72F06C6BFA-seeklogo.com.png" group-title="Agro",chacra TV
-http://
+#EXTINF:-1 tvg-id="" tvg-name="chacra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8NOnxagqNtsReBRtP76IBsHlAFOdejmgXA&s" group-title="Agro",chacra TV
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://seeklogo.com/images/A/argentinisima-satelital-logo-25A7B6E90C-seeklogo.com.png" group-title="Regionales",ARGENTINISIMA satelital
-http://
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://bestleague.world/img/arsat.png" group-title="Regionales",ARGENTINISIMA satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CN23" tvg-logo="https://seeklogo.com/images/C/cn23-logo-3E4040E3A0-seeklogo.com.png" group-title="Noticias",CN23
-http://
+#EXTINF:-1 tvg-id="" tvg-name="aunar" tvg-logo="https://pbs.twimg.com/profile_images/1586069925700984836/ReMaXu5z_400x400.png" group-title="Regionales",aunar
+https://mediastore01.playme.com.ar/dash/CH_AUNAR/playlist.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="aunar" tvg-logo="https://seeklogo.com/images/A/aunar-tv-logo-92E8A9B34E-seeklogo.com.png" group-title="Regionales",aunar
-http://
+#EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Internacionales",teleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://seeklogo.com/images/T/telesur-logo-1F1DF40E0D-seeklogo.com.png" group-title="Internacionales",teleSUR
-http://
-
-#EXTINF:-1 tvg-id="" tvg-name="D News" tvg-logo="https://seeklogo.com/images/D/deutsche-welle-d-news-logo-1A8C436AA9-seeklogo.com.png" group-title="Internacionales",D News
-http://
-
-#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://seeklogo.com/images/R/rt-logo-22DC2C4EAB-seeklogo.com.png" group-title="Internacionales",RT
-http://
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Internacionales",RT
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://seeklogo.com/images/F/france-24-logo-5DE5F9CBA1-seeklogo.com.png" group-title="Internacionales",France 24 Español
 http://
@@ -143,6 +137,7 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
 http://
+
 
 
 
