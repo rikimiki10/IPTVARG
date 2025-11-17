@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://seeklogo.com/images/T/telefe-logo-8F5E44EC16-seeklogo.com.png" group-title="Nacionales",Telefe
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true" group-title="Nacionales",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://seeklogo.com/images/C/canal-13-argentina-logo-0F82FD3BD3-seeklogo.com.png" group-title="Nacionales",eltrece
@@ -43,55 +43,52 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427819/ei/i
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://seeklogo.com/images/L/la-nacion-mas-logo-5E3C77C593-seeklogo.com.png" group-title="Noticias",LN+
-http://
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IP" tvg-logo="https://seeklogo.com/images/I/ip-noticias-logo-D8BFC5D03D-seeklogo.com.png" group-title="Noticias",IP
-http://
-
-#EXTINF:-1 tvg-id="" tvg-name="EXTRA!" tvg-logo="https://seeklogo.com/images/E/extra-tv-logo-4B9327D4B4-seeklogo.com.png" group-title="Noticias",EXTRA!
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763428122/ei/unIbabL8Fsag4dUP-JOf-Aw/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S8bl4LTaXP4v5IWg8A73_0LwGc7Ua3AtPaUuD7-183rYXvFmEL4R5w1t03FW-etq5ZHmxuNFpC/spc/6b0G_C9hDFRxfT6E1QCspn1yvdcTpmv-eWeoS0MlcP_HboZCBo9i3YTtkzig6mnKHAw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4FDqgiCemTFpnP6sCL7vThMBp_6CKVBvHBrUO740tIAiADbryA3zrkpoKtobstVflX8i9o4KgO7AGX4pfwA8WSqQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="deportv" tvg-logo="https://seeklogo.com/images/D/deportv-logo-65A3E3A6C2-seeklogo.com.png" group-title="Deportes",deportv
-http://
+https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Garage_TV_Logo.png",El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://seeklogo.com/images/P/paka-paka-logo-4A0E94D0B6-seeklogo.com.png" group-title="Infantiles",Paka Paka
-http://
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine.ar" tvg-logo="https://seeklogo.com/images/C/cine-ar-logo-63B7F3A285-seeklogo.com.png" group-title="Cine",Cine.ar
-http://
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Construir" tvg-logo="https://seeklogo.com/images/C/construir-tv-logo-4C9E2C6463-seeklogo.com.png" group-title="Culturales",Construir
-http://
+https://router.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Viajar" tvg-logo="https://seeklogo.com/images/V/viajar-tv-logo-6C0F0AB4ED-seeklogo.com.png" group-title="Culturales",Viajar
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Culturales",Encuentro
+https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://seeklogo.com/images/E/encuentro-argentina-logo-2B153D7A1C-seeklogo.com.png" group-title="Culturales",Encuentro
-http://
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://bestleague.world/img/mtv.webp" group-title="Series",MTV
+http://179.51.136.19:8000/play/a18p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://seeklogo.com/images/T/tbs-logo-4B14DF2D01-seeklogo.com.png" group-title="Series",TBS
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Música" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3a2f52c4-5725-4260-963b-dd36a5711bf6-profile_image-300x300.png" group-title="MÚSICA",QUIERO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763430377/ei/iXsbae_QJ7aXobIPu_XYwA0/ip/190.7.19.202/id/8Mw0YdKN2XY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631268/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QOBy_9fu-iRcgB_1wSpsKMdODs-HrxCBS03NKDuuwvlE0J80Vg-MSgXlNuexG7rQWujwS-g7H3/spc/6b0G_DnBhh7kE3ei7YyAFspBN9QBlCMhWkgCfshwz1QDCJa0WxK_uQ_y5RaIvEjSrBk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSDLO4IJpB5LGl4w-OmEIdHKB9u9Hrzr9-5B4WF3I2-wCIAI5DAycAjJOnWjun8qoecZjPBcyn0d2hg2WRIVxrCBi/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(Canal sin nombre visible)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/No_image_available.png" group-title="Misceláneos",(Canal sin nombre visible)
-http://
+#EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="https://bestleague.world/img/cm.webp" group-title="Música",CM
+https://g1.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="https://seeklogo.com/images/C/canal-de-la-musica-argentina-logo-1F68E0C8E5-seeklogo.com.png" group-title="Música",CM
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLJHApATNTJtN-sKj66Q91X66RBA11TYcbg&s" group-title="Música",Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://seeklogo.com/images/M/music-top-logo-2D8E4C2FA7-seeklogo.com.png" group-title="Música",Music Top
-http://
+#EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="Folklore",Tierra Mia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tierra Mia TV" tvg-logo="https://tvmia.ar/logo.png" group-title="Folklore",Tierra Mia TV
-http://
+#EXTINF:-1 tvg-id="" tvg-name="El Folkorico TV" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Autos",FOLKLORICO TV
+https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="El Garage TV" tvg-logo="https://seeklogo.com/images/E/el-garage-tv-logo-4A87D98F29-seeklogo.com.png" group-title="Autos",El Garage TV
-http://
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://bestleague.world/img/ciudad.webp" group-title="Entretenimiento",Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://seeklogo.com/images/C/ciudad-magazine-logo-8FDF1B04DA-seeklogo.com.png" group-title="Entretenimiento",Ciudad Magazine
-http://
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://seeklogo.com/images/U/unife-logo-3BEF27DA52-seeklogo.com.png" group-title="Religión",UNIFE
-http://
+#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Religión",UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://seeklogo.com/images/K/kzo-logo-D9C0C9D8AD-seeklogo.com.png" group-title="Entretenimiento",KZO Entertainment
 http://
@@ -146,5 +143,6 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
 http://
+
 
 
