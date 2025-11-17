@@ -12,35 +12,35 @@ http://fortv.cc:8080/90820916/64752029/164869
 #EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://seeklogo.com/images/C/canal-9-argentina-logo-CE1E139A7A-seeklogo.com.png" group-title="Nacionales",elnueve
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Canal_Once_Parana_logo.png",El Once Paraná
+#EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",El Once Paraná
 https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://seeklogo.com/images/A/america-tv-argentina-logo-7F135D03AF-seeklogo.com.png" group-title="Nacionales",américa
-http://
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="https://seeklogo.com/images/T/tv-publica-argentina-logo-7A3A2C5D92-seeklogo.com.png" group-title="Nacionales",Televisión Pública
-http://
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://seeklogo.com/images/N/net-tv-argentina-logo-7F4B393CA7-seeklogo.com.png" group-title="Nacionales",NET TV
-http://
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=277314942
 
 #EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://seeklogo.com/images/B/bravo-logo-0E4F8ECF8F-seeklogo.com.png" group-title="Nacionales",Bravo TV
-http://
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://seeklogo.com/images/T/tn-todo-noticias-logo-A4D1F9B229-seeklogo.com.png" group-title="Noticias",TN
-http://
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://seeklogo.com/images/C/c5n-logo-5F43E8D4C4-seeklogo.com.png" group-title="Noticias",C5N
-http://
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427563/ei/i3AbaaORO4ec4dUPh5To8Qw/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5R1GrRPLnbC7uCokKMQ9uebVqkMICwsdsGDblxoH6fyR-W7WjVoqRuaaDONQtWi8ZvN6jye0NxK/spc/6b0G_F4xKaHnLrFntkiVmUVszf6imGSyqoH5W6-H80bgVdfSdUMVbuD7h_UxlCvRH86XPRhKSR0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIqlSuBFvWTE3c29py5wGem-huMtJ8aJSwpKUuch6dT4AiEA8cXoltXXQZ-8zBH9JfQ6am5808DpgPGtTjDQXIC9r7w%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://seeklogo.com/images/C/cronica-tv-logo-5C2A1A3C59-seeklogo.com.png" group-title="Noticias",Crónica
-http://
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427686/ei/BnEbabSqNNCiobIPgYDYuA4/ip/190.7.19.202/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RQIa6Fpz38xPO1yCp1KxFk6DtkD4Ck4DFya4I2_CkXqvX5Kww5EWI3E8zLmwyyMnLeur15_7f1/spc/6b0G_BBfzITL5pPdTj2Ww2r7WyFHvCuTQ5aOo502bZTu3e8twR_mKT4bXrL7ZKelGoo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMYuiLLEwH94zMkpYt0HA1HKbhpWqRlhKoi_UKC8RmaiAiEA99m6Be3SMPEda6DWwuU_mLVRgM34rivmXtGlE2p82aQ%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://seeklogo.com/images/A/a24-argentina-logo-4D8DCD8EF3-seeklogo.com.png" group-title="Noticias",A24
-http://
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427819/ei/i3EbabLjB7CbobIPmrqI6A4/ip/190.7.19.202/id/ArKbAx1K-2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QTFe5POuqSN1aFsF_UGSYywHGMRjQw419h1PRJAVIWMjZ_-pesehC2H_PfSOZlohC-YJWX-grT/spc/6b0G_CVFFvjf2o75Damqx5tRD7PIEGgn7PZv3yuUCC4JgeCocSQBGOMuFhBC_5yaHUo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMEbZ_rlQADhRZB-vSoREfugLX39q2-DfjBU4e1Uob5UCIQDQ59ch8CQIVwUl7RZGFKjzIUKv6hn2284v3xqfyHf0Iw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://seeklogo.com/images/C/canal-26-argentina-logo-1B1EF1F8CF-seeklogo.com.png" group-title="Noticias",Canal 26
-http://
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://seeklogo.com/images/L/la-nacion-mas-logo-5E3C77C593-seeklogo.com.png" group-title="Noticias",LN+
 http://
@@ -146,4 +146,5 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://seeklogo.com/images/R/rai-news-24-logo-64FAAB26E9-seeklogo.com.png" group-title="Internacionales",Rai News 24
 http://
+
 
