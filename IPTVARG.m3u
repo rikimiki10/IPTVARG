@@ -4,7 +4,7 @@
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://bestleague.world/img/eltrece.webp" group-title="Nacionales",eltrece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://190.104.67.5:234/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://bestleague.world/img/nueve.webp" group-title="Nacionales",elnueve
 http://fortv.cc:8080/90820916/64752029/164869
@@ -22,13 +22,13 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://bestleague.world/img/nettv.webp" group-title="Nacionales",NET TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=277314942
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=278449357
 
 #EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://bestleague.world/img/bravotv.png" group-title="Nacionales",Bravo TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://bestleague.world/img/tn.png" group-title="Noticias",TN
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+http://190.104.67.5:234/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://bestleague.world/img/c5n.webp" group-title="Noticias",C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427563/ei/i3AbaaORO4ec4dUPh5To8Qw/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5R1GrRPLnbC7uCokKMQ9uebVqkMICwsdsGDblxoH6fyR-W7WjVoqRuaaDONQtWi8ZvN6jye0NxK/spc/6b0G_F4xKaHnLrFntkiVmUVszf6imGSyqoH5W6-H80bgVdfSdUMVbuD7h_UxlCvRH86XPRhKSR0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIqlSuBFvWTE3c29py5wGem-huMtJ8aJSwpKUuch6dT4AiEA8cXoltXXQZ-8zBH9JfQ6am5808DpgPGtTjDQXIC9r7w%3D/file/index.m3u8
@@ -137,6 +137,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435503/ei/j
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
 
 
 
