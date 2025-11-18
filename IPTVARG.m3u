@@ -4,7 +4,7 @@
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://bestleague.world/img/eltrece.webp" group-title="Nacionales",eltrece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://190.104.67.5:234/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://bestleague.world/img/nueve.webp" group-title="Nacionales",elnueve
 http://fortv.cc:8080/90820916/64752029/164869
@@ -28,25 +28,25 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunk
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://bestleague.world/img/tn.png" group-title="Noticias",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://190.104.67.5:234/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://bestleague.world/img/c5n.webp" group-title="Noticias",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427563/ei/i3AbaaORO4ec4dUPh5To8Qw/ip/190.7.19.202/id/Uo-ziJhrTvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maudio/1/bui/AdEuB5R1GrRPLnbC7uCokKMQ9uebVqkMICwsdsGDblxoH6fyR-W7WjVoqRuaaDONQtWi8ZvN6jye0NxK/spc/6b0G_F4xKaHnLrFntkiVmUVszf6imGSyqoH5W6-H80bgVdfSdUMVbuD7h_UxlCvRH86XPRhKSR0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIqlSuBFvWTE3c29py5wGem-huMtJ8aJSwpKUuch6dT4AiEA8cXoltXXQZ-8zBH9JfQ6am5808DpgPGtTjDQXIC9r7w%3D/file/index.m3u8
+http://190.104.67.5:234/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://bestleague.world/img/cronica.png" group-title="Noticias",Crónica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427686/ei/BnEbabSqNNCiobIPgYDYuA4/ip/190.7.19.202/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RQIa6Fpz38xPO1yCp1KxFk6DtkD4Ck4DFya4I2_CkXqvX5Kww5EWI3E8zLmwyyMnLeur15_7f1/spc/6b0G_BBfzITL5pPdTj2Ww2r7WyFHvCuTQ5aOo502bZTu3e8twR_mKT4bXrL7ZKelGoo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMYuiLLEwH94zMkpYt0HA1HKbhpWqRlhKoi_UKC8RmaiAiEA99m6Be3SMPEda6DWwuU_mLVRgM34rivmXtGlE2p82aQ%3D/file/index.m3u8
+http://190.104.67.5:234/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://bestleague.world/img/a24.webp" group-title="Noticias",A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763427819/ei/i3EbabLjB7CbobIPmrqI6A4/ip/190.7.19.202/id/ArKbAx1K-2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QTFe5POuqSN1aFsF_UGSYywHGMRjQw419h1PRJAVIWMjZ_-pesehC2H_PfSOZlohC-YJWX-grT/spc/6b0G_CVFFvjf2o75Damqx5tRD7PIEGgn7PZv3yuUCC4JgeCocSQBGOMuFhBC_5yaHUo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMEbZ_rlQADhRZB-vSoREfugLX39q2-DfjBU4e1Uob5UCIQDQ59ch8CQIVwUl7RZGFKjzIUKv6hn2284v3xqfyHf0Iw%3D%3D/file/index.m3u8
+http://190.104.67.5:234/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://bestleague.world/img/canal26.webp" group-title="Noticias",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+http://190.104.67.5:234/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://bestleague.world/img/ln.webp" group-title="Noticias",LN+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763428122/ei/unIbabL8Fsag4dUP-JOf-Aw/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S8bl4LTaXP4v5IWg8A73_0LwGc7Ua3AtPaUuD7-183rYXvFmEL4R5w1t03FW-etq5ZHmxuNFpC/spc/6b0G_C9hDFRxfT6E1QCspn1yvdcTpmv-eWeoS0MlcP_HboZCBo9i3YTtkzig6mnKHAw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4FDqgiCemTFpnP6sCL7vThMBp_6CKVBvHBrUO740tIAiADbryA3zrkpoKtobstVflX8i9o4KgO7AGX4pfwA8WSqQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763461768/ei/J_Ybad7bPLig4dUPte7AmQE/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Qv9EIByjcr2R1zQjggk9f0J0q3ZGNbciU7i2FV41xfZ1vTpW-KaP_yNQggMMO4DvXuWoVmvjgt/spc/6b0G_Ix5NSOoiulT-FDgoqmaAjJ32Qpc509xNLFzNRMij6IcfrVeGv9Mi1HGJ47lmoA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM-9Z94ctE10CqscaeMFVuh4YFNXSZpWtxpR-NfFBNSYAiAL8jKgfJBV1lgzD0A68eeiRzAOEpfqgOMf-X0xdE8pYw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="deportv" tvg-logo="https://bestleague.world/img/deportv.webp" group-title="Deportes",deportv
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
@@ -137,6 +137,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435503/ei/j
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
 
 
 
