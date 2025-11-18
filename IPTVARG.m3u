@@ -43,7 +43,7 @@ http://190.104.67.5:234/play/a05u/index.m3u8
 http://190.104.67.5:234/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://bestleague.world/img/ln.webp" group-title="Noticias",LN+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://190.104.67.38:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763461768/ei/J_Ybad7bPLig4dUPte7AmQE/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Qv9EIByjcr2R1zQjggk9f0J0q3ZGNbciU7i2FV41xfZ1vTpW-KaP_yNQggMMO4DvXuWoVmvjgt/spc/6b0G_Ix5NSOoiulT-FDgoqmaAjJ32Qpc509xNLFzNRMij6IcfrVeGv9Mi1HGJ47lmoA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM-9Z94ctE10CqscaeMFVuh4YFNXSZpWtxpR-NfFBNSYAiAL8jKgfJBV1lgzD0A68eeiRzAOEpfqgOMf-X0xdE8pYw%3D%3D/file/index.m3u8
@@ -70,7 +70,7 @@ https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk_480p/index.m3u8
 http://179.51.136.19:8000/play/a18p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Quiero Música" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3a2f52c4-5725-4260-963b-dd36a5711bf6-profile_image-300x300.png" group-title="MÚSICA",QUIERO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763430377/ei/iXsbae_QJ7aXobIPu_XYwA0/ip/190.7.19.202/id/8Mw0YdKN2XY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631268/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QOBy_9fu-iRcgB_1wSpsKMdODs-HrxCBS03NKDuuwvlE0J80Vg-MSgXlNuexG7rQWujwS-g7H3/spc/6b0G_DnBhh7kE3ei7YyAFspBN9QBlCMhWkgCfshwz1QDCJa0WxK_uQ_y5RaIvEjSrBk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSDLO4IJpB5LGl4w-OmEIdHKB9u9Hrzr9-5B4WF3I2-wCIAI5DAycAjJOnWjun8qoecZjPBcyn0d2hg2WRIVxrCBi/file/index.m3u8
+http://190.104.67.5:234/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="https://bestleague.world/img/cm.webp" group-title="Música",CM
 https://g1.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -78,7 +78,7 @@ https://g1.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLJHApATNTJtN-sKj66Q91X66RBA11TYcbg&s" group-title="Música",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="Folklore",Tierra Mia TV
+#EXTINF:-1 tvg-id="" tvg-name="Tierra Miá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="Folklore",Tierra Mia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Folkorico TV" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Autos",FOLKLORICO TV
@@ -91,19 +91,18 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://bestleague.world/img/kzowhite.png" group-title="Entretenimiento",KZO Entertainment
-https://youtu.be/gJSz4U5WrVc
+http://190.104.67.5:234/play/a08z/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AM 1070 El Destape" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/el-destape-radio/fb_cover.jpg" group-title="Radio",AM 1070 El Destape
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433346/ei/IocbabLOGfKT4dUP1LmRkAQ/ip/190.7.19.202/id/YPTraHIcd0c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SMtY8Zie30UBUxLYD0gwJJ59KCjr4mEkvLxi59IGc_bJ6AZTzZS7UJQskRJpBZxhLCI_WOBrm2/spc/6b0G_N_CfAEDCcdLIAcJu-T9_N2_7kr8HtAJ2fyHiB3aTI7UFiMXgO4ALKrF-XJru0FQZS_zpCg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMwRyosb8dVbWvzXXA9gGJsRgjuEBV_AYkg21dA6sTrQAiAw5Mmr1Xer75b_81X6Q4auZ7PlPTIxfQ42gqY0s6E07A%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/CanaldelaCiudad2013.png/revision/latest?cb=20210527000737&path-prefix=es" group-title="Radio",CANAL DE LA CIUDAD
 
 #EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://bestleague.world/img/dtv.webp" group-title="Misceláneos",DTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433479/ei/p4cbaZChMZvq1sQP6faxgAg/ip/190.7.19.202/id/LIeND9IgRIk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RMHgl24r_KixpJ7pIll09bqAz27Np5GpnFKfqBl32bxd3mBpm03u47HNOfk1Ru0bIqolMBykuu/spc/6b0G_OOhntU1_l7UQ9rU2FlwHinsouD16KA2v0E-zKOS04k0JyNqS-5tDj1GBMt7jgY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIvYzYHidsSxSGiR-H9sAU6adNmX7z_Op8PSq9_bBpMwCIDSl1z-TdF2RPrJmKxclEiOpqUlZqdjY420t8hu5uumO/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463125/ei/dfsbabuIEOuQ-LAPw_zQ-A0/ip/190.7.19.202/id/LIeND9IgRIk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RfOpp4-XTk70MT425xpwfrqO2AF8a9Mh-1H0muM1gsn0UB3N6C8zxbmirLT0_ouymW57qB5-qH/spc/6b0G_FO87VwpwL08gDGRGWKbqDU4Ezrbd7xz91RahGLnWduw0zdvPDEMBJJ34F9zhJs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOXcCEHH0lETW-dP55ktPoX2uVgcw9DNKi1mwAhZLf3YAiEAwSxXHr-ZLumKSuhsHrl5-5qVnY0CtJYDMGib2NUyB60%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Misceláneos",CANAL E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream0/chunks.m3u8?nimblesessionid=277583541
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://bestleague.world/img/rural.webp" group-title="Agro",CANAL RURAL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763433821/ei/_YgbaZrgEJiYobIPooPCiAo/ip/190.7.19.202/id/EED_GN6fuMQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/maudio/1/bui/AdEuB5Ry_ZTfaFNJXNrLS101EDYMQk-NJtQEnRdLxu51wPtCm8YIYJQ5VMCWAaVTKtYjb-eEq3484qD0/spc/6b0G_NqBnG9t51m3fz0iXFilLAYc1HFsmxKMFdOZYliyKE2VzTfZon_6j5puf_uO_V8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHmmdho3RzM3lcusOsa7MjBYE2c4Cusp4MMdGGCCM3rkCICiXXBXiqBbOsTfFjlpB3OpmyZQKgFPSzYZiY66cVWUb/file/index.m3u8
+http://190.104.67.5:234/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="chacra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8NOnxagqNtsReBRtP76IBsHlAFOdejmgXA&s" group-title="Agro",chacra TV
 https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -111,8 +110,8 @@ https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://bestleague.world/img/arsat.png" group-title="Regionales",ARGENTINISIMA satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="aunar" tvg-logo="https://pbs.twimg.com/profile_images/1586069925700984836/ReMaXu5z_400x400.png" group-title="Regionales",aunar
-https://mediastore01.playme.com.ar/dash/CH_AUNAR/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Internacionales",Mega
+http://190.104.67.5:234/play/a0p4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Internacionales",teleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -121,22 +120,23 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",France 24 Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763434977/ei/gY0badTcDO2J1sQPzfPgsQ0/ip/190.7.19.202/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QUQX9j9Uvv0k7exkdKPSbvWZG380nTvKXFjJOueZUOdZIH_df11ygfpW4G71XikorL85Im8XUE/spc/6b0G_EizQEIeGzd0A4DfIkJSGdQ2Rkj-VbntXrq6_WlIBjGOXW3lY2C6jSvIEeOyY_RKefjSXoc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJIbeadkasYJn8wIyFTUu1sQ_wTa1hq3oLUXa7IgGlUYAiB_6oMcj8Y2cI87-C6smQ5Mx5t9a-BKB7AgQdOJ2bm_Ew%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463568/ei/MP0bafvpBPaR-LAPs6ymoQk/ip/190.7.19.202/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QwheEgfgk1JtMChd7yfVkKAV4NyO9znC3Is1ETomUzEKy3z3stu1ihXp9RggUdgsnBx54VAj49/spc/6b0G_GfkmHsHijxfft5d3QJGm5OJxufWyTlA8EohKb6JtxnrsmrW0AgLB5BkQISNXjI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSFDaRQPfssbWSSczubWdC85U6ATOQxMJKYJUuMRqHRkCIQCmFFzCUIdgV8nhCLB20QNEpPSYaYp7WN7I8OstEqgLGw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacionales",euronews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435289/ei/uY4badDdDaTH4dUPtLOOuAc/ip/190.7.19.202/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5R7c2_kLlJ-nb2mz9Lqkosdz4XJVJwzfK9p_oAXY_iN92T94qtkXGzGLsmz7VGCXvi6OMyLDLA-/spc/6b0G_OtdnPTsg5tI-X3-Nlujk8eYYRzfNoLXedOcy3Co2ERscq7VCtbQ9wIeIdoocms/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJVjBbLEq1YYlfjHhyYfDI6yclvfsYiQObktRj9ObsN2AiEA2SRP9PcccoXAlT6CNnHtd5QBEKCEkVjolMKjgUfSHXA%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463708/ei/vP0baf_DDtzt1sQPudO8MQ/ip/190.7.19.202/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TBYpSDDfvokgBHwe9hxtyOQFosNfCASu1F5idjzYJjdANlD0innNGorQ4n7qi12QtJpQz9wiKQ/spc/6b0G_IfXogVmo5Ktnl5PqTSUAY1QDC-faGBxXRytmj6siZF38bdA_SRnHsFSqP57iug/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJYC8g41JGEa2ImQg4ft3XRjFB8aoQSqjLPuCRRomHMNAiEAzz7fDA2Jc2DNiUoLWE-LeDZgXNX9I9NBUjcLRRFpEyQ%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUY-SCjSleJXUrdMOV9mcwPDrkWt_RMZIEQ&s" group-title="Internacionales",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="+ FORO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/2560px-N%2B_Foro_2024.svg.png" group-title="Internacionales",+ FORO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763435503/ei/j48baaXUE5aW4dUPt5GxuQ0/ip/190.7.19.202/id/p2AzyIEuFak.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/ss/1/ssa/1/bui/AdEuB5RXFtflkpdAxBkBtELHtP7l2gsrNSlIJCptVMrKRCIveHWDtgcJedNrX-XZ47AGEHPrfj7TJTTs/spc/6b0G_KmbntB1aP2q3NBpgd3r290g25SNvD6FOPh4cDW-JC6nDkd9z1SVA64bX5xrmoQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaCnropDvZtECAva7P1bQ2U3BIkJqddOlKJKcosHe0O4CIQDxkyFmgERxryl4WK3cU_Ai111RuhfZc_jVv7KIHWsoxw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Americá Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/2560px-Logo_AM-sports-2019.svg.png" group-title="Internacionales",America Sports
+http://190.104.67.5:234/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
 
 
 
