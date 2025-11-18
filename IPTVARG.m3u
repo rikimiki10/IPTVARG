@@ -176,4 +176,6 @@ http://190.104.67.5:234/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzXYDVeA4K11YPmxNNC60CeFfo8Bd9FA2UXOTTbxqYZaKHxy5rNv4b8BlJpJ0KMzBxbjhUR8b_m3MKUu0Fv95WQX54sOT7iKiXDCpdN7wbf7tWLscSPWfBMhCyQ1y2-UcQuxk9wfoOD-8/s337/Discovery_Home_Health-2005.png" group-title="Internacionales",DISCOVERY H&H
 http://190.104.67.5:234/play/a08f/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ytimg.com/vi/XW9c443L1vk/maxresdefault.jpg" group-title="Internacionales",DISCOVERY SCIENSE
+http://190.104.67.5:234/play/a06p/index.m3u8
 
