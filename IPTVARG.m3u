@@ -60,8 +60,8 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Cine",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Construir" tvg-logo="https://www.construirtv.com/wp-content/uploads/2017/09/Logo-CTV_nuevo.jpg" group-title="Culturales",Construir
-https://router.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://lh3.googleusercontent.com/proxy/ZEuRWFO2H4mlU9eDwYutMYTCgtqnvuI8tPkkYlCnOebdklG3qOaU5zfNWKzzLL8DLODHQhJo91tx9VdqvEpHCEFLrfvWA09_5sqH2n8cQoCmKG7a5iHHgxW-GDojLkiAqJtZLWkntQ" group-title="Culturales",EL GOURMET
+http://190.104.67.5:234/play/a0o1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Culturales",Encuentro
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk_480p/index.m3u8
@@ -137,11 +137,41 @@ http://190.104.67.5:234/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Interior",TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" tvg-logo="https://cpng.pikpng.com/pngl/s/97-979110_file-las-estrellas-svg-logo-del-canal-de.png" group-title="Mexico",EL CANAL DE LAS ESTRELLAS
+http://190.104.67.5:234/play/a07x/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Infantiles",ADULT SWIN
+http://190.104.67.5:234/play/a08d/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://e7.pngegg.com/pngimages/659/933/png-clipart-babytv-television-channel-fox-international-channels-babyfirst-child-television-child.png" group-title="Infantiles",BABY TV
+http://190.104.67.5:234/play/a06j/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="Infantiles",CARTOON NETWORK
+http://190.104.67.125:234/play/a083/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Etc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Infantiles",ETC
+http://190.104.67.5:234/play/a0p8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Infantiles",NICK JRS
+http://190.104.67.125:234/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Infantiles",NICKELODEON
+http://190.104.67.125:234/play/a08y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="Infantiles",DISNEY JUNIOR
+http://190.104.67.38:234/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://c0.klipartz.com/pngpicture/433/36/sticker-png-disney-channel-logo-television-channel-the-walt-disney-company-television-show-disney-junior-logo-television-blue-text-trademark-logo.png" group-title="Infantiles",DISNEY CHANNEL
+http://190.104.67.38:234/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://w7.pngwing.com/pngs/675/500/png-transparent-discovery-kids-discovery-hd-discovery-channel-discovery-inc-television-channel-others-miscellaneous-television-child.png" group-title="Infantiles",DISCOVERY KIDS
+http://190.104.67.38:234/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://e7.pngegg.com/pngimages/482/735/png-clipart-discovery-channel-television-channel-logo-television-show-others-television-globe-thumbnail.png" group-title="Internacionales",DISCOVERY CHANNEL
+http://190.104.67.5:234/play/a08g/index.m3u8
 
 
 
