@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true"Nacionales",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 (Satelital).ar" tvg-name="eltrece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Nacionales",eltrece
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="eltrece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Nacionales",eltrece
 http://190.104.67.5:234/play/a07b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="elnueve Bs.As." tvg-logo="https://bestleague.world/img/nueve.webp" group-title="Nacionales",elnueve
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="elnueve Bs.As." tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/elnueve-ar.png?raw=true" group-title="Nacionales",elnueve
 http://fortv.cc:8080/90820916/64752029/164869
 
 #EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Canal-nueve-litoral-logo-2017.svg/1024px-Canal-nueve-litoral-logo-2017.svg.png" group-title="Nacionales",elnueveLitoral
@@ -15,28 +15,28 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",El Once Paraná
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763459204/ei/JOwbafeEE820nOAPpc6LoAc/ip/190.7.19.202/id/sw2pvdM4WRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AdEuB5RMFevvJ56CGe9q4B92L-XiUWy2ldU7lsNP9PeyDQcP-4Xd_QT4WKKD_mIz9tuF5Tijv9dQTccW/spc/6b0G_GsqFU-q86Cp2fkl8ji6sjIeVIVznVuHNaNEzHKk66UnNu7XAnwaFGb_WW0090s8WVORf_o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKhclSx_rsQ2d1Zl8U1YEHhVKXm3vuQa_9Em-o_xorHnAiAgJN4jObZX4lPggDPHZLfUKKSG5x3Z2XI9nMldtqOuTw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="américa" tvg-logo="https://bestleague.world/img/america.webp" group-title="Nacionales",américa
+#EXTINF:-1 tvg-id="America TV.ar" tvg-name="américa TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Nacionales",américa
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Televisión Pública" tvg-logo="https://bestleague.world/img/tvpublica.webp" group-title="Nacionales",Televisión Pública
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="Televisión Pública" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/television-publica-ar.png?raw=true" group-title="Nacionales",Televisión Pública
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://bestleague.world/img/nettv.webp" group-title="Nacionales",NET TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=278449357
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-name="NET TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/net-tv-ar.png?raw=true" group-title="Nacionales",NET TV
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/48ccf17b-8ea9-40f5-8d89-8fbe864abd7f.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://bestleague.world/img/bravotv.png" group-title="Nacionales",Bravo TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
-#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://bestleague.world/img/tn.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN
 http://190.104.67.5:234/play/a097/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://bestleague.world/img/c5n.webp" group-title="Noticias",C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/c5n-ar.png?raw=true" group-title="Noticias",C5N
 http://190.104.67.5:234/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://bestleague.world/img/cronica.png" group-title="Noticias",Crónica
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Noticias",Crónica
 http://190.104.67.5:234/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://bestleague.world/img/a24.webp" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24
 http://190.104.67.5:234/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://bestleague.world/img/canal26.webp" group-title="Noticias",Canal 26
@@ -131,7 +131,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463708/ei/v
 #EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUY-SCjSleJXUrdMOV9mcwPDrkWt_RMZIEQ&s" group-title="Internacionales",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Americá Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/2560px-Logo_AM-sports-2019.svg.png" group-title="Internacionales",America Sports
+#EXTINF:-1 tvg-id="America Sports.ar" tvg-name="Americá Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/2560px-Logo_AM-sports-2019.svg.png" group-title="Internacionales",America Sports
 http://190.104.67.5:234/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
@@ -181,6 +181,7 @@ http://190.104.67.5:234/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://images.seeklogo.com/logo-png/32/1/theater-discovery-hd-logo-png_seeklogo-322885.png" group-title="Internacionales",DISCOVERY THEATER
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ded41409-bb0f-40bb-aa86-09e05b0bf439.m3u8
+
 
 
 
