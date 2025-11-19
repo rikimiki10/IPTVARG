@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://bestleague.world/img/telefe.png"Nacionales",Telefe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true"Nacionales",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="eltrece" tvg-logo="https://bestleague.world/img/eltrece.webp" group-title="Nacionales",eltrece
@@ -181,4 +181,5 @@ http://190.104.67.5:234/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://images.seeklogo.com/logo-png/32/1/theater-discovery-hd-logo-png_seeklogo-322885.png" group-title="Internacionales",DISCOVERY THEATER
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ded41409-bb0f-40bb-aa86-09e05b0bf439.m3u8
+
 
