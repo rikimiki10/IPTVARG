@@ -13,7 +13,7 @@ http://fortv.cc:8080/90820916/64752029/164869
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",El Once Paraná
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763459204/ei/JOwbafeEE820nOAPpc6LoAc/ip/190.7.19.202/id/sw2pvdM4WRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AdEuB5RMFevvJ56CGe9q4B92L-XiUWy2ldU7lsNP9PeyDQcP-4Xd_QT4WKKD_mIz9tuF5Tijv9dQTccW/spc/6b0G_GsqFU-q86Cp2fkl8ji6sjIeVIVznVuHNaNEzHKk66UnNu7XAnwaFGb_WW0090s8WVORf_o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKhclSx_rsQ2d1Zl8U1YEHhVKXm3vuQa_9Em-o_xorHnAiAgJN4jObZX4lPggDPHZLfUKKSG5x3Z2XI9nMldtqOuTw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763603307/ei/Cx8eacmQAYeQ-LAP4-6tkQg/ip/190.7.19.202/id/sw2pvdM4WRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AdEuB5TMjI4dk_NOplhpirlJjcIztkjJajQHaH7WQbWSmxNoZhx_Tc_ntASaX9Y9C99AGbc-5ffSOqtX/spc/6b0G_JW_Z6pPI7FOgCcMDfBpUqwvfgmJnUlDTrVYnqEb4k3JzDzC9KTuzmZXw_AtEag/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBWCsJDa6NAq-FYoVWyN2eBmEqZQ-vsgKWLUmPXDjGHMCIFR2UUm37hlIsbGIpuhb6BT3bLbEZTqCK8XN_1bK03xN/file/index.m3u8
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-name="américa TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Nacionales",américa
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
@@ -42,11 +42,11 @@ http://190.104.67.5:234/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-26-ar.png?raw=true" group-title="Noticias",Canal 26
 http://190.104.67.5:234/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="Noticias",LN+
+#EXTINF:-1 tvg-id="LN+.ar" tvg-name="LN+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="Noticias",LN+
 http://190.104.67.38:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763543582/ei/vjUdac2LDvDl1sQPp_SCCA/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Q3Bovh61uj2OyB8uweyJ3yVhayfSUiI9th9L47lZ-fupH2tT28kbUNVHAVfCxjhbGK68tIIN0y/spc/6b0G_B2C35FHaejGLvOQIQNtHuaaVxypCX7FkB1RDL38T4PWYogIQV2eL16vihIvPqsZOxe7oMY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMmc3HrIwMlgxJ2jFaRh55WJusAyp7glA6HT6UymPRu8AiEAsCO4AZi1nlicpLC292pLgeeZAp2qfbC8F6DUhe84uL8%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763602941/ei/nR0eafXoCOaPobIPtp7EyAc/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TKMNtMkeAdGvL5NVC9B8qOCNRCg0y0sZ0wmFC1reerEfNxUCCylFNBB2xpIhYWthLgRddV7PpM/spc/6b0G_Hrm4y7DFuUpX3CPufoyWWOP16qryvn1Vtyej09xlXeQCrB2-atUVLUiFcsm6OvzVrsoHFs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALmsH3HxTBVb4NWSJIAW3gJWvBvOj2ZkanUmMmNG_Ps-AiEAlr-SemLs_gUHiA-VzMwfjEuw9t1OFNynq-uMFgiKYgU%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="deportv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",deportv
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
@@ -63,28 +63,28 @@ https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm_480p/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet.ar" tvg-name="El Gourmet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-gourmet-ar.png?raw=true" group-title="Culturales",EL GOURMET
 http://190.104.67.5:234/play/a0o1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Culturales",Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Culturales",Encuentro
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://bestleague.world/img/mtv.webp" group-title="Series",MTV
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" group-title="Series",MTV
 http://179.51.136.19:8000/play/a18p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Quiero Música" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3a2f52c4-5725-4260-963b-dd36a5711bf6-profile_image-300x300.png" group-title="MÚSICA",QUIERO
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="Quiero Música" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3a2f52c4-5725-4260-963b-dd36a5711bf6-profile_image-300x300.png" group-title="MÚSICA",QUIERO
 http://190.104.67.5:234/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="https://bestleague.world/img/cm.webp" group-title="Música",CM
+#EXTINF:-1 tvg-id="El Canal de la MÃºsica.ar" tvg-name="CM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cm-el-canal-de-la-musica-ar.png?raw=true" group-title="Música",CM
 https://g1.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLJHApATNTJtN-sKj66Q91X66RBA11TYcbg&s" group-title="Música",Music Top
+#EXTINF:-1 tvg-id="Musictop.ar" tvg-name="Music Top" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLJHApATNTJtN-sKj66Q91X66RBA11TYcbg&s" group-title="Música",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tierra Miá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="Folklore",Tierra Mia TV
+#EXTINF:-1 tvg-id="Tierra MÃ­a TV.ar" tvg-name="Tierra Miá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="Folklore",Tierra Mia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Folkorico TV" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Autos",FOLKLORICO TV
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://bestleague.world/img/ciudad.webp" group-title="Entretenimiento",Ciudad Magazine
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="Entretenimiento",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Religión",UNIFE
@@ -93,24 +93,25 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://bestleague.world/img/kzowhite.png" group-title="Entretenimiento",KZO Entertainment
 http://190.104.67.5:234/play/a08z/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/CanaldelaCiudad2013.png/revision/latest?cb=20210527000737&path-prefix=es" group-title="Radio",CANAL DE LA CIUDAD
+#EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-name="Canal de la Ciudad" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-de-la-ciudad-ar.png?raw=true" group-title="Radio",CANAL DE LA CIUDAD
+http://190.104.67.38:234/play/a07c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://bestleague.world/img/dtv.webp" group-title="Misceláneos",DTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463125/ei/dfsbabuIEOuQ-LAPw_zQ-A0/ip/190.7.19.202/id/LIeND9IgRIk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RfOpp4-XTk70MT425xpwfrqO2AF8a9Mh-1H0muM1gsn0UB3N6C8zxbmirLT0_ouymW57qB5-qH/spc/6b0G_FO87VwpwL08gDGRGWKbqDU4Ezrbd7xz91RahGLnWduw0zdvPDEMBJJ34F9zhJs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOXcCEHH0lETW-dP55ktPoX2uVgcw9DNKi1mwAhZLf3YAiEAwSxXHr-ZLumKSuhsHrl5-5qVnY0CtJYDMGib2NUyB60%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/dtv-diputados-television-ar.png?raw=true"Misceláneos",DTV
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9d2bf558-cd1c-489a-863f-b17677793cfa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Misceláneos",CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://bestleague.world/img/rural.webp" group-title="Agro",CANAL RURAL
-http://190.104.67.5:234/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-name="CANAL RURAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-rural-ar.png?raw=true" group-title="Agro",CANAL RURAL
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/1c8c0014-3521-4202-be72-ec1642f09baf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="chacra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8NOnxagqNtsReBRtP76IBsHlAFOdejmgXA&s" group-title="Agro",chacra TV
 https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://bestleague.world/img/arsat.png" group-title="Regionales",ARGENTINISIMA satelital
+#EXTINF:-1 tvg-id="ArgentinÃ­sima Satelital.ar" tvg-name="ARGENTINISIMA satelital" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/argentinisima-satelital-ar.png?raw=true" group-title="Regionales",ARGENTINISIMA satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Internacionales",Mega
+#EXTINF:-1 tvg-id="MEGA HD.cl" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Internacionales",Mega
 http://190.104.67.5:234/play/a0p4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Internacionales",teleSUR
@@ -181,6 +182,7 @@ http://190.104.67.5:234/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://images.seeklogo.com/logo-png/32/1/theater-discovery-hd-logo-png_seeklogo-322885.png" group-title="Internacionales",DISCOVERY THEATER
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ded41409-bb0f-40bb-aa86-09e05b0bf439.m3u8
+
 
 
 
