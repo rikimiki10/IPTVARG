@@ -114,13 +114,13 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="MEGA HD.cl" tvg-name="Mega Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Internacionales",Mega
 http://190.104.67.5:234/play/a0p4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Internacionales",teleSUR
+#EXTINF:-1 tvg-id="teleSUR.ar" tvg-name="teleSUR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Internacionales",teleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Internacionales",RT
+#EXTINF:-1 tvg-id="Russia Today HD.ar" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="Internacionales",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",France 24 Español
+#EXTINF:-1 tvg-id="France 24 en EspaÃ±ol.ar" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",France 24 Español
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463568/ei/MP0bafvpBPaR-LAPs6ymoQk/ip/190.7.19.202/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QwheEgfgk1JtMChd7yfVkKAV4NyO9znC3Is1ETomUzEKy3z3stu1ihXp9RggUdgsnBx54VAj49/spc/6b0G_GfkmHsHijxfft5d3QJGm5OJxufWyTlA8EohKb6JtxnrsmrW0AgLB5BkQISNXjI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSFDaRQPfssbWSSczubWdC85U6ATOQxMJKYJUuMRqHRkCIQCmFFzCUIdgV8nhCLB20QNEpPSYaYp7WN7I8OstEqgLGw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW
@@ -129,16 +129,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacionales",euronews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463708/ei/vP0baf_DDtzt1sQPudO8MQ/ip/190.7.19.202/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TBYpSDDfvokgBHwe9hxtyOQFosNfCASu1F5idjzYJjdANlD0innNGorQ4n7qi12QtJpQz9wiKQ/spc/6b0G_IfXogVmo5Ktnl5PqTSUAY1QDC-faGBxXRytmj6siZF38bdA_SRnHsFSqP57iug/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJYC8g41JGEa2ImQg4ft3XRjFB8aoQSqjLPuCRRomHMNAiEAzz7fDA2Jc2DNiUoLWE-LeDZgXNX9I9NBUjcLRRFpEyQ%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUY-SCjSleJXUrdMOV9mcwPDrkWt_RMZIEQ&s" group-title="Internacionales",24h
+#EXTINF:-1 tvg-id="24/7 Canal de Noticias.ar" tvg-name="24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUY-SCjSleJXUrdMOV9mcwPDrkWt_RMZIEQ&s" group-title="Internacionales",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="America Sports.ar" tvg-name="Americá Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/2560px-Logo_AM-sports-2019.svg.png" group-title="Internacionales",America Sports
+#EXTINF:-1 tvg-id="America Sports.ar" tvg-name="Americá Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-sports-ar.png?raw=true" group-title="Internacionales",America Sports
 http://190.104.67.5:234/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
+#EXTINF:-1 tvg-id="Rai Italia.ar" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="Internacionales",Rai News 24
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Interior",TELEMAX
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telemax-ar.png?raw=true" group-title="Interior",TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" tvg-logo="https://cpng.pikpng.com/pngl/s/97-979110_file-las-estrellas-svg-logo-del-canal-de.png" group-title="Mexico",EL CANAL DE LAS ESTRELLAS
@@ -147,57 +147,65 @@ http://190.104.67.5:234/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adult Swin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Infantiles",ADULT SWIN
 http://190.104.67.5:234/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://e7.pngegg.com/pngimages/659/933/png-clipart-babytv-television-channel-fox-international-channels-babyfirst-child-television-child.png" group-title="Infantiles",BABY TV
+#EXTINF:-1 tvg-id="BabyTV.ar" tvg-name="Baby TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/baby-tv-ar.png?raw=true" group-title="Infantiles",BABY TV
 http://190.104.67.5:234/play/a06j/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="Infantiles",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.ar" tvg-name="Cartoon Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png?raw=true"Infantiles",CARTOON NETWORK
 http://190.104.67.125:234/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Etc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Infantiles",ETC
 http://190.104.67.5:234/play/a0p8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jrs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Infantiles",NICK JRS
+#EXTINF:-1 tvg-id="Nick Jr..ar" tvg-name="Nick Jrs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nick-jr-ar.png?raw=true" group-title="Infantiles",NICK JRS
 http://190.104.67.125:234/play/a07s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Infantiles",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nickelodeon-ar.png?raw=true" group-title="Infantiles",NICKELODEON
 http://190.104.67.125:234/play/a08y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="Infantiles",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior.ar" tvg-name="Disney Junior" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-jr-ar.png?raw=true" group-title="Infantiles",DISNEY JUNIOR
 http://190.104.67.38:234/play/a08x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://c0.klipartz.com/pngpicture/433/36/sticker-png-disney-channel-logo-television-channel-the-walt-disney-company-television-show-disney-junior-logo-television-blue-text-trademark-logo.png" group-title="Infantiles",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel.ar" tvg-name="Disney Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-channel-ar.png?raw=true" group-title="Infantiles",DISNEY CHANNEL
 http://190.104.67.38:234/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://w7.pngwing.com/pngs/675/500/png-transparent-discovery-kids-discovery-hd-discovery-channel-discovery-inc-television-channel-others-miscellaneous-television-child.png" group-title="Infantiles",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-name="Discovery Kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-kids-ar.png?raw=true" group-title="Infantiles",DISCOVERY KIDS
 http://190.104.67.38:234/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://e7.pngegg.com/pngimages/482/735/png-clipart-discovery-channel-television-channel-logo-television-show-others-television-globe-thumbnail.png" group-title="Internacionales",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery Channel.ar" tvg-name="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Internacionales",DISCOVERY CHANNEL
 http://190.104.67.5:234/play/a08g/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzXYDVeA4K11YPmxNNC60CeFfo8Bd9FA2UXOTTbxqYZaKHxy5rNv4b8BlJpJ0KMzBxbjhUR8b_m3MKUu0Fv95WQX54sOT7iKiXDCpdN7wbf7tWLscSPWfBMhCyQ1y2-UcQuxk9wfoOD-8/s337/Discovery_Home_Health-2005.png" group-title="Internacionales",DISCOVERY H&H
+#EXTINF:-1 tvg-id="Discovery Home and Health.ar" tvg-name="Discovery H&H" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Internacionales",DISCOVERY H&H
 http://190.104.67.5:234/play/a08f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://i.ytimg.com/vi/XW9c443L1vk/maxresdefault.jpg" group-title="Internacionales",DISCOVERY SCIENSE
+#EXTINF:-1 tvg-id="Discovery Science.ar" tvg-name="Discovery Sciense" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true" group-title="Internacionales",DISCOVERY SCIENSE
 http://190.104.67.5:234/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://images.seeklogo.com/logo-png/32/1/theater-discovery-hd-logo-png_seeklogo-322885.png" group-title="Internacionales",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.ar" tvg-name="Discovery Theater" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true" group-title="Internacionales",DISCOVERY THEATER
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ded41409-bb0f-40bb-aa86-09e05b0bf439.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="Espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9520
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-name="Espn 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" group-title="Deportes",ESPN 2
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157559
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-name="Espn 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Deportes",ESPN 3
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9533
 
 #EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s280/espn4.png" group-title="Deportes",ESPN 4
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157561
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",FOX SPORTS
-http://190.104.67.148:234/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
+http://
 
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes",TNT SPORTS PREMIUM
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/d3d03f0e-0c53-43e2-848d-15eb0e587bd0.m3u8
 
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="Fox Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",FOX SPORTS
+http://
 
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="Fox Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes",FOX SPORTS 2
+http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/f5354333-8aa7-4047-b283-633181d709b8.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="Fox Sports3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",FOX SPORTS 3
+http://
