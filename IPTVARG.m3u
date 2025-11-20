@@ -4,7 +4,7 @@
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="eltrece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Nacionales",eltrece
-http://190.104.67.5:234/play/a07b/index.m3u8
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157591
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="elnueve Bs.As." tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/elnueve-ar.png?raw=true" group-title="Nacionales",elnueve
 http://fortv.cc:8080/90820916/64752029/164869
@@ -31,16 +31,16 @@ https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://190.104.67.5:234/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/c5n-ar.png?raw=true" group-title="Noticias",C5N
-http://190.104.67.5:234/play/a05v/index.m3u8
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157566
 
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Noticias",Crónica
 http://190.104.67.5:234/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24
-http://190.104.67.5:234/play/a05u/index.m3u8
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157613
 
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-26-ar.png?raw=true" group-title="Noticias",Canal 26
-http://190.104.67.5:234/play/a05x/index.m3u8
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157594
 
 #EXTINF:-1 tvg-id="LN+.ar" tvg-name="LN+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="Noticias",LN+
 http://190.104.67.38:234/play/a05y/index.m3u8
