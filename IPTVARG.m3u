@@ -184,19 +184,19 @@ http://190.104.67.5:234/play/a06p/index.m3u8
 http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/ded41409-bb0f-40bb-aa86-09e05b0bf439.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn" tvg-logo="" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="Espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9520
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-2-ar.png" group-title="Deportes",ESPN 2
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157559
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Deportes",ESPN 3
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9533
 
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s280/espn4.png" group-title="Deportes",ESPN 4
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157561
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Deportes",FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",FOX SPORTS
 http://190.104.67.148:234/play/a085/index.m3u8
 
 
