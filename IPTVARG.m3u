@@ -196,16 +196,16 @@ http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9533
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157561
 
 #EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
-http://
+http://190.104.67.148:234/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes",TNT SPORTS PREMIUM
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/d3d03f0e-0c53-43e2-848d-15eb0e587bd0.m3u8
+http://190.104.67.148:234/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="Fox Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",FOX SPORTS
-http://
+http://190.104.67.148:234/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="Fox Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes",FOX SPORTS 2
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/f5354333-8aa7-4047-b283-633181d709b8.m3u8
+http://190.104.67.148:234/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="Fox Sports3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",FOX SPORTS 3
-http://
+http://190.104.67.148:234/play/a06y/index.m3u8
