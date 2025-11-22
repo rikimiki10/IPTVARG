@@ -85,7 +85,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="Entretenimiento",Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_nzrx2RaKJDt7qSjf0it1wA/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Religión",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
@@ -139,7 +139,7 @@ http://190.104.67.5:234/play/a061/index.m3u8
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telemax-ar.png?raw=true" group-title="Interior",TELEMAX
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iLwIoHifBPRJ0hEFaQY0Ss/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" tvg-logo="https://cpng.pikpng.com/pngl/s/97-979110_file-las-estrellas-svg-logo-del-canal-de.png" group-title="Mexico",EL CANAL DE LAS ESTRELLAS
 http://190.104.67.5:234/play/a07x/index.m3u8
