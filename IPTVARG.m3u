@@ -195,6 +195,9 @@ http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9533
 #EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s280/espn4.png" group-title="Deportes",ESPN 4
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157561
 
+#EXTINF:-1 tvg-id="" tvg-name="Espn 5" tvg-logo="" group-title="Deportes",ESPN 5
+http://181.209.125.237:9000/play/a042/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
 http://190.104.67.148:234/play/a086/index.m3u8
 
@@ -213,8 +216,8 @@ http://190.104.67.148:234/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true" group-title="Deportes",TYC SPORTS
 https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYmE_DGkeMouOpv5XXUP83M/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-http://
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional" tvg-logo="" group-title="Deportes",TYC SPORTS INTERNACIONAL
+https://zonamovie.pro:443/play/cs90LlpXkKx7jsLYM0Z3SopLzmB82ES4shPoixjC9oSdAPDvTjVte3DPndAZ2ZYf/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
@@ -237,5 +240,4 @@ http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-http://
+
