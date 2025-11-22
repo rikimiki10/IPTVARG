@@ -96,8 +96,8 @@ http://190.104.67.5:234/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-name="Canal de la Ciudad" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-de-la-ciudad-ar.png?raw=true" group-title="Radio",CANAL DE LA CIUDAD
 http://190.104.67.38:234/play/a07c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/dtv-diputados-television-ar.png?raw=true"Misceláneos",DTV
-http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/9d2bf558-cd1c-489a-863f-b17677793cfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aunar" tvg-logo=""Misceláneos",AUNAR
+http://181.209.125.237:9000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Misceláneos",CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -124,7 +124,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 http://190.116.65.158:8000/play/a04z
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+http://181.209.125.237:9000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacionales",euronews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463708/ei/vP0baf_DDtzt1sQPudO8MQ/ip/190.7.19.202/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TBYpSDDfvokgBHwe9hxtyOQFosNfCASu1F5idjzYJjdANlD0innNGorQ4n7qi12QtJpQz9wiKQ/spc/6b0G_IfXogVmo5Ktnl5PqTSUAY1QDC-faGBxXRytmj6siZF38bdA_SRnHsFSqP57iug/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJYC8g41JGEa2ImQg4ft3XRjFB8aoQSqjLPuCRRomHMNAiEAzz7fDA2Jc2DNiUoLWE-LeDZgXNX9I9NBUjcLRRFpEyQ%3D/file/index.m3u8
