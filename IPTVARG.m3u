@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true"Nacionales",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Turcas" tvg-logo="https://yt3.googleusercontent.com/2K2al7UrfCzQq1XfIWDu97GrvDVptSnhKGgH5HK4MVHYb8WXkxRp_UmXs4RORve3effGTT7k=s900-c-k-c0x00ffffff-no-rj" group-title="Novelas",NOVELAS TURCAS
+http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/1120.m3u8
+
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="eltrece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Nacionales",eltrece
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157591
 
@@ -224,9 +227,8 @@ https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYmE_DGk
 
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional" tvg-logo="" group-title="Deportes",TYC SPORTS INTERNACIONAL
 https://zonamovie.pro:443/play/cs90LlpXkKx7jsLYM0Z3SopLzmB82ES4shPoixjC9oSdAPDvTjVte3DPndAZ2ZYf/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-http://
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
@@ -242,5 +244,9 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+http://
+
 
 
