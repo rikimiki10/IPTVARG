@@ -121,7 +121,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="France 24 en EspaÃ±ol.ar" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionales",France 24 Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763463568/ei/MP0bafvpBPaR-LAPs6ymoQk/ip/190.7.19.202/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QwheEgfgk1JtMChd7yfVkKAV4NyO9znC3Is1ETomUzEKy3z3stu1ihXp9RggUdgsnBx54VAj49/spc/6b0G_GfkmHsHijxfft5d3QJGm5OJxufWyTlA8EohKb6JtxnrsmrW0AgLB5BkQISNXjI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSFDaRQPfssbWSSczubWdC85U6ATOQxMJKYJUuMRqHRkCIQCmFFzCUIdgV8nhCLB20QNEpPSYaYp7WN7I8OstEqgLGw%3D%3D/file/index.m3u8
+http://190.116.65.158:8000/play/a04z
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
@@ -201,6 +201,9 @@ http://181.209.125.237:9000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Espn 6" tvg-logo="" group-title="Deportes",ESPN 6
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157561
 
+#EXTINF:-1 tvg-id="" tvg-name="Espn 7" tvg-logo="" group-title="Deportes",ESPN 7
+http://190.116.65.158:8000/play/a0aj
+
 #EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
 http://190.104.67.148:234/play/a086/index.m3u8
 
@@ -221,10 +224,7 @@ https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYmE_DGk
 
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional" tvg-logo="" group-title="Deportes",TYC SPORTS INTERNACIONAL
 https://zonamovie.pro:443/play/cs90LlpXkKx7jsLYM0Z3SopLzmB82ES4shPoixjC9oSdAPDvTjVte3DPndAZ2ZYf/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-http://
-
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
 
