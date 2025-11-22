@@ -90,8 +90,8 @@ https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_nzrx2RaKJDt7qSjf0it1wA/ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Religión",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="https://bestleague.world/img/kzowhite.png" group-title="Entretenimiento",KZO Entertainment
-http://190.104.67.5:234/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Volver" tvg-logo="" group-title="Entretenimiento",VOLVER
+http://181.209.125.237:9000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-name="Canal de la Ciudad" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-de-la-ciudad-ar.png?raw=true" group-title="Radio",CANAL DE LA CIUDAD
 http://190.104.67.38:234/play/a07c/index.m3u8
