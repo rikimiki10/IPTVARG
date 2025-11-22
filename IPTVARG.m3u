@@ -34,7 +34,7 @@ http://190.104.67.5:234/play/a097/index.m3u8
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157566
 
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Noticias",Crónica
-http://190.104.67.5:234/play/a05w/index.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_jothf5uw0e_ycD_Czfol84/ts
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157613
