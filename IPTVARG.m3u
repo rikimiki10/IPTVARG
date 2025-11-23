@@ -228,8 +228,9 @@ https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYmE_DGk
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS Internacional" tvg-logo="" group-title="Deportes",TYC SPORTS INTERNACIONAL
 https://zonamovie.pro:443/play/cs90LlpXkKx7jsLYM0Z3SopLzmB82ES4shPoixjC9oSdAPDvTjVte3DPndAZ2ZYf/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-http://
+
+#EXTINF:-1 tvg-id="" tvg-name="Remanzo tv" tvg-logo="" group-title="",REMANZO TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763881682/ei/cl4iafzOL6H01sQPu5LHQA/ip/190.7.19.202/id/ZAcKgDkJKHs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51659838/txs/51659836%2C51659837%2C51659838/hfr/1/maudio/1/bui/AdEuB5QDwWyhbBTz0Pmpo1MNU6fiGaEqY5lk6acIIbvjttRvXv5n1iIk-IEZEmo7x72-bNrs2QLZdWqj/spc/6b0G_GJKa0turSUqbhQtI6-fiIVoYqhSMRlJq_MOy9sbnZjUyw8Xhxbc0iOb9QL8RYk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALW_kr6s-P5ESo4yoDI2Gxy7eQegKSkymY-OYpjAD2w-AiAQyinGRYDHj6_ec8ZfIWg6ay-toavAK0ybhXJyZG5A7g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
@@ -245,6 +246,7 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
+
 
 
 
