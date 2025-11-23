@@ -1,6 +1,6 @@
 [
-  {"number": 1001, "name": "La Red AM 910", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac"},"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/250px-Radio_La_Red_AM_910.png"}
-  {"number": 1002, "name": "Radio Continental AM 590", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC"},"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Radio_Continental_%282025%29.svg/250px-Radio_Continental_%282025%29.svg.png"}
+  {"number": 1001, "name": "La Red AM 910", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac"},"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/250px-Radio_La_Red_AM_910.png"
+  {"number": 1002, "name": "Radio Continental AM 590", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC"},"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Radio_Continental_%282025%29.svg/250px-Radio_Continental_%282025%29.svg.png"
   {"number": 1003, "name": "Radio Mitre AM 790", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3"},"logo": ""}
   {"number": 1004, "name": "Radio Rivadavia AM 630", "url": "https://streammax.alsolnet.com/radiorivadavia"},"logo": ""}
   {"number": 1005, "name": "Radio 10 AM 710", "url": "http://s6.stweb.tv/radio10/live/playlist.m3u8"},"logo": ""}
