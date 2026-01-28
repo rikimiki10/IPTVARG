@@ -21,7 +21,7 @@ https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflbneOQCg
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-name="El Once Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",El Once Paraná
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763603307/ei/Cx8eacmQAYeQ-LAP4-6tkQg/ip/190.7.19.202/id/sw2pvdM4WRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AdEuB5TMjI4dk_NOplhpirlJjcIztkjJajQHaH7WQbWSmxNoZhx_Tc_ntASaX9Y9C99AGbc-5ffSOqtX/spc/6b0G_JW_Z6pPI7FOgCcMDfBpUqwvfgmJnUlDTrVYnqEb4k3JzDzC9KTuzmZXw_AtEag/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBWCsJDa6NAq-FYoVWyN2eBmEqZQ-vsgKWLUmPXDjGHMCIFR2UUm37hlIsbGIpuhb6BT3bLbEZTqCK8XN_1bK03xN/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769662818/ei/ApV6afG1D521nOAP7J-wmQc/ip/190.7.19.202/id/0SOkBhN7p-w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qjrYmccLT4-KRrZMgFP3yWyRHScdyG1P0YryweNAGHc6p9F1c8jvJID8CPU2s1_fOvD9bLvRt0/spc/q5xjPNI7X-rY_JnhtwhXFlcZ-HSNF2h8y7TcCVhGgxpNVX2xEvQ_YmXFXATjQfFwk8neSw/vprv/1/go/1/ns/8-8HWhgIshCLlLjf3AngBWwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/BLp2y3toSzox0VCIc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgNueY1hFE25i59dB-ciCK9OXrNfKVVGDZcnwsez9fLsQCIQCI1J6VlE4Ua-Md9uYTI2bjTTvYtsVilhNUIlFXjfLh7w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-name="américa TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Nacionales",américa
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
@@ -36,25 +36,25 @@ http://cineflex.cc:8080/live/robinluna1/vgcFdDYAtCfS/48ccf17b-8ea9-40f5-8d89-8fb
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?dpssid=b21174305596691b6cc72ce2b&sid=ba5t1l1xb2587071463691b6cc72ce29&ndvc=1
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN
-http://190.104.67.5:234/play/a097/index.m3u8
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflbknWqo70boZQS8K-RkMOeq/ts
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/c5n-ar.png?raw=true" group-title="Noticias",C5N
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157566
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflZWTzx4HsHU1FZ5DCC1dcnv/ts
 
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Noticias",Crónica
 https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_jothf5uw0e_ycD_Czfol84/ts
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157613
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflaWn7Iqm6Ozd32bNMFd_rLB/ts
 
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="Canal 26" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-26-ar.png?raw=true" group-title="Noticias",Canal 26
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157594
 
 #EXTINF:-1 tvg-id="LN+.ar" tvg-name="LN+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="Noticias",LN+
-http://190.104.67.38:234/play/a05y/index.m3u8
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflZTR0E0yWURuYxT1_ArISYA/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Argentina 12" tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12-tw.jpg?26929" group-title="Noticias",ARG12
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763602941/ei/nR0eafXoCOaPobIPtp7EyAc/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TKMNtMkeAdGvL5NVC9B8qOCNRCg0y0sZ0wmFC1reerEfNxUCCylFNBB2xpIhYWthLgRddV7PpM/spc/6b0G_Hrm4y7DFuUpX3CPufoyWWOP16qryvn1Vtyej09xlXeQCrB2-atUVLUiFcsm6OvzVrsoHFs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALmsH3HxTBVb4NWSJIAW3gJWvBvOj2ZkanUmMmNG_Ps-AiEAlr-SemLs_gUHiA-VzMwfjEuw9t1OFNynq-uMFgiKYgU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769663860/ei/FJl6adTdD7zz1sQP3cTw2Ac/ip/190.7.19.202/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pJpCEJjE1UAf-zeD4q3EsO3KfLq8TDA762LDP7-fdqo4esuHVQWUKpyDvQxFbL_PMFeByndIWN/spc/q5xjPPZmXisWdsgP-HCtbe-WDzdK0brr421kBMk_q_ZBnof-55BTpWW8jpjty6La3ezLuQ/vprv/1/go/1/ns/kECJq0NsXYTus_rHarVioicS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/cj_1kjqj780ObfIz1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAJbmO1enzjy3j9Vn-7pjNuts9EA9q4-o6D9sWldRV3m2AiEAwXvDCqfhj3fTXus6vC5026A4wXKKkkodPZ7OEJfk-PU%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="deportv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",deportv
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj_720p/index.m3u8
@@ -75,7 +75,7 @@ http://190.104.67.5:234/play/a0o1/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" group-title="Series",MTV
-http://179.51.136.19:8000/play/a18p/index.m3u8
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflbmp876tJqNsRcKVmTL7hYQ/ts
 
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-name="Quiero Música" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3a2f52c4-5725-4260-963b-dd36a5711bf6-profile_image-300x300.png" group-title="MÚSICA",QUIERO
 http://190.104.67.5:234/play/a06s/index.m3u8
@@ -245,6 +245,7 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
+
 
 
 
