@@ -1,16 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYdoJ1WkmQr43MPkC6q5qzZ/ts
+
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes",TNT SPORTS PREMIUM
+http://190.7.19.197:232/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true"Nacionales",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflb2vTerkdTuPmUYCavzYfS4/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Novelas Turcas" tvg-logo="https://yt3.googleusercontent.com/2K2al7UrfCzQq1XfIWDu97GrvDVptSnhKGgH5HK4MVHYb8WXkxRp_UmXs4RORve3effGTT7k=s900-c-k-c0x00ffffff-no-rj" group-title="Novelas",NOVELAS TURCAS
 http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/1120.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="eltrece" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Nacionales",eltrece
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/157591
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflZHoxFwpVyfeorFOgDcf0GJ/ts
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-name="elnueve Bs.As." tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/elnueve-ar.png?raw=true" group-title="Nacionales",elnueve
-http://fortv.cc:8080/90820916/64752029/164869
+https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflbneOQCgNIQ31h53Of2tBCQ/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="elnueve Paraná" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Canal-nueve-litoral-logo-2017.svg/1024px-Canal-nueve-litoral-logo-2017.svg.png" group-title="Nacionales",elnueveLitoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -209,12 +214,6 @@ http://190.116.65.158:8000/play/a0aj
 
 #EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="" group-title="",ESPN DEPORTES
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
-http://190.104.67.148:234/play/a086/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes",TNT SPORTS PREMIUM
-http://190.104.67.148:234/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="Fox Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",FOX SPORTS
 http://190.104.67.148:234/play/a085/index.m3u8
@@ -246,6 +245,7 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
+
 
 
 
