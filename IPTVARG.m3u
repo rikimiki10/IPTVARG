@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Deportes",ESPN PREMIUM
-https://zonamovie.pro:443/play/xd9N-YiTp7fcoq6RFhENCKqNQyWZytWhtkDsZtvKflYdoJ1WkmQr43MPkC6q5qzZ/ts
+http://mundo2.pro//live/35yvyujm2/YAR4BSMTR7g8/306398.ts
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes",TNT SPORTS PREMIUM
 http://190.7.19.197:232/play/a037/index.m3u8
@@ -245,6 +245,7 @@ http://
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 http://
+
 
 
 
